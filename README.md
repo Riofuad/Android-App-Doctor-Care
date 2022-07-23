@@ -1,2 +1,2 @@
 # Android-App-Doctor-Care
-The college assignment create an Android application using Android Studio
+The college assignment create an Android application using Android Studio and Firebase
