@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E5E5E5"
+    tools:context=".HomeActivity">
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_signOut"
+        android:layout_width="211dp"
+        android:layout_height="45dp"
+        android:layout_marginBottom="24dp"
+        android:background="@drawable/button_danger"
+        android:text="SignOut"
+        android:textColor="#C62828"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/view"
+        android:layout_width="0dp"
+        android:layout_height="215dp"
+        android:background="@drawable/rectangle_round"
+        android:elevation="6dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/home_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="155dp"
+                android:layout_marginLeft="155dp"
+                android:layout_marginBottom="156dp"
+                android:gravity="center"
+                android:text="Home"
+                android:textColor="#ffffff"
+                android:textSize="32sp" />
+
+            <TextView
+                android:id="@+id/welcome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginStart="106dp"
+                android:layout_marginLeft="106dp"
+                android:layout_marginBottom="110dp"
+                android:gravity="center"
+                android:text="Welcome User"
+                android:textColor="#ffffff"
+                android:textSize="26sp" />
+
+            <TextView
+                android:id="@+id/patientName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginStart="106dp"
+                android:layout_marginLeft="106dp"
+                android:layout_marginBottom="79dp"
+                android:gravity="center"
+                android:text="Patient Name"
+                android:textColor="#ffffff"
+                android:textSize="26sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="105dp"
+                android:layout_marginLeft="105dp"
+                android:layout_marginBottom="55dp"
+                android:text="How we can help you today?"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+<!--    <LinearLayout-->
+<!--        android:id="@+id/view"-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="215dp"-->
+<!--        android:background="@drawable/rectangle_round"-->
+<!--        android:elevation="6dp"-->
+<!--        android:gravity="center"-->
+<!--        android:orientation="vertical"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent">-->
+
+<!--        -->
+<!--        -->
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Welcome User"-->
+<!--            android:textColor="#ffffff"-->
+<!--            android:textSize="26sp" />-->
+
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Choose an option"-->
+<!--            android:textColor="#ffffff"-->
+<!--            android:textSize="16sp" />-->
+<!--    </LinearLayout>-->
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_search"
+        android:layout_width="118dp"
+        android:layout_height="107dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="237dp"
+        android:background="@drawable/button_home"
+        android:fontFamily="@font/roboto"
+        android:gravity="bottom|center"
+        android:paddingBottom="8dp"
+        android:text="Search"
+        android:textAllCaps="false"
+        android:textColor="#56ab2f"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/btn_signOut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.187"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/view"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/img_search"
+        android:layout_width="44dp"
+        android:layout_height="46dp"
+        android:layout_marginBottom="40dp"
+        android:elevation="19dp"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_search"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.25"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/ic_search_green" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_appointment"
+        android:layout_width="118dp"
+        android:layout_height="107dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="237dp"
+        android:background="@drawable/button_home"
+        android:text="Appointment"
+        android:textColor="#56ab2f"
+        android:textSize="16sp"
+        android:textAllCaps="false"
+        android:fontFamily="@font/roboto"
+        android:gravity="bottom|center"
+        android:paddingBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/btn_signOut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.86"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/view"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/img_appointment"
+        android:layout_width="44dp"
+        android:layout_height="46dp"
+        android:layout_marginBottom="40dp"
+        android:elevation="19dp"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_appointment"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.792"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/ic_appointment" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_profile"
+        android:layout_width="118dp"
+        android:layout_height="107dp"
+        android:layout_marginTop="168dp"
+        android:layout_marginBottom="98dp"
+        android:background="@drawable/button_home"
+        android:text="Profile"
+        android:fontFamily="@font/roboto"
+        android:gravity="bottom|center"
+        android:textAllCaps="false"
+        android:paddingBottom="8dp"
+        android:textColor="#56ab2f"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/btn_signOut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.18"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/view"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/img_profile"
+        android:layout_width="44dp"
+        android:layout_height="46dp"
+        android:layout_marginBottom="40dp"
+        android:elevation="19dp"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_profile"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.25"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/ic_profile" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_myDoctor"
+        android:layout_width="118dp"
+        android:layout_height="107dp"
+        android:layout_marginTop="168dp"
+        android:layout_marginBottom="98dp"
+        android:background="@drawable/button_home"
+        android:text="My Doctor"
+        android:textColor="#56ab2f"
+        android:textSize="16sp"
+        android:fontFamily="@font/roboto"
+        android:textAllCaps="false"
+        android:gravity="bottom|center"
+        android:paddingBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/btn_signOut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.86"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/view"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/img_myDoctor"
+        android:layout_width="44dp"
+        android:layout_height="46dp"
+        android:layout_marginBottom="40dp"
+        android:elevation="19dp"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_myDoctor"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.792"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/ic_doctor" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_medicalFolder"
+        android:layout_width="118dp"
+        android:layout_height="107dp"
+        android:background="@drawable/button_home"
+        android:fontFamily="@font/roboto"
+        android:gravity="bottom|center"
+        android:paddingBottom="8dp"
+        android:text="Medical Folder"
+        android:textAllCaps="false"
+        android:textColor="#56ab2f"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/btn_signOut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/view"
+        app:layout_constraintVertical_bias="0.965"  />
+
+    <ImageView
+        android:id="@+id/img_medicalFolder"
+        android:layout_width="44dp"
+        android:layout_height="46dp"
+        android:layout_marginBottom="40dp"
+        android:elevation="19dp"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_medicalFolder"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.996"
+        app:srcCompat="@drawable/ic_medical_folder" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

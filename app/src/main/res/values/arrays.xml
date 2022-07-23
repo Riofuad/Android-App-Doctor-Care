@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="role">
+        <item>Patient</item>
+        <item>Doctor</item>
+    </string-array>
+    <string-array name="specialist">
+        <item>Penyakit Dalam</item>
+        <item>Anak</item>
+        <item>Saraf</item>
+        <item>Kandungan dan Ginekologi</item>
+        <item>Bedah</item>
+        <item>Kulit dan Kelamin</item>
+        <item>THT</item>
+        <item>Mata</item>
+        <item>Psikiater</item>
+        <item>Gigi</item>
+    </string-array>
+    <string-array name="type" >
+        <item>Consultation</item>
+        <item>Hospitalisation</item>
+    </string-array>
+
+</resources>

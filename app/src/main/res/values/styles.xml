@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#56ab2f</item>
+        <item name="colorPrimaryVariant">#56ab2f</item>
+        <item name="colorPrimaryDark">#56ab2f</item>
+        <item name="colorAccent">#56ab2f</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+
+    </style>
+
+    <style name="SearchViewStyle" >
+        <item name="android:editTextColor">#56ab2f</item>
+    </style>
+
+</resources>

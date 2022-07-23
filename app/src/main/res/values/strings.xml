@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Doctor Care App</string>
+    <string name="main_activity_description">Simply talk to your mentors.</string>
+
+    <string name="login">Login</string>
+    <string name="chat_with_mentor">Chat with a mentor</string>
+
+    <!-- NOTIFICATION SERVICE -->
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="notification_title">"You have received a notification"</string>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="error_not_connected">You must log in!</string>
+    <string name="error_authentication_canceled">Authentication canceled&#8230;</string>
+    <string name="error_no_internet">No internet connection!</string>
+    <string name="error_unknown_error">An unknown error has occurred&#8230;</string>
+    <string name="connection_succeed">Authentication successful!</string>
+    <string name="button_login_text_logged">Display Profil</string>
+    <string name="button_login_text_not_logged">Login</string>
+
+    <!-- LOGIN ACTIVITY -->
+    <string name="toolbar_title_login_activity">Your Profile</string>
+    <string name="text_input_username">Username</string>
+    <string name="text_view_email">Email birthday :</string>
+    <string name="button_update_account">Update username</string>
+    <string name="button_delete_account">Delete my account</string>
+    <string name="button_sign_out_account">Logout</string>
+    <string name="info_no_email_found">No email birthday</string>
+    <string name="info_no_username_found">No username</string>
+    <string name="popup_message_confirmation_delete_account">Are you sure you want to delete your account?</string>
+    <string name="popup_message_choice_yes">Yes!</string>
+    <string name="popup_message_choice_no">No</string>
+    <string name="check_box_is_mentor">Are you a mentor?</string>
+
+    <!-- MENTOR_CHAT ACTIVITY -->
+    <string name="toolbar_title_mentor_chat_activity">Discussion chats</string>
+    <string name="text_input_title_mentor_chat_activity">Compose your message</string>
+    <string name="button_title_mentor_chat_activity">SEND</string>
+    <string name="text_view_mentor_chat_error">This thread currently contains no messages.&#8230;</string>
+    <string name="popup_title_permission_files_access">This app needs permission to work.</string>
+    <string name="toast_title_no_image_chosen">No image selected&#8230;</string>
+    <!-- Book api -->
+    <string name="thumbnail">thumbnail</string>
+    <string name="title">Title</string>
+    <string name="category">Category</string>
+    <string name="price">40 $</string>
+    <string name="author">Author</string>
+
+
+    <string name="search">SEARCH</string>
+    <string name="hint">Enter your query </string>
+    <string name="description_image_view">Template for  the image</string>
+    <string name="description_divider">Divider</string>
+    <string name="Failed_to_Load_data">Please check your Internet Connection</string>
+    <string name="NO_RESULT">No matching results</string>
+
+    <string-array name="form_type">
+        <item>Consultation</item>
+        <item>Hospitalisation</item>
+    </string-array>
+
+    <string-array name="specialist_spinner">
+        <item>Penyakit Dalam</item>
+        <item>Anak</item>
+        <item>Saraf</item>
+        <item>Kandungan dan Ginekologi</item>
+        <item>Bedah</item>
+        <item>Kulit dan Kelamin</item>
+        <item>THT</item>
+        <item>Mata</item>
+        <item>Psikiater</item>
+        <item>Gigi</item>
+    </string-array>
+
+    <string-array name="blood_spinner">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--<string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+        -->
+</resources>
+

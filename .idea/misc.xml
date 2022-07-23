@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/Doctor Care App/app/src/main/res/drawable/ic_camera_alt.xml" value="0.2765" />
+        <entry key="..\:/AndroidStudio/Doctor Care App/app/src/main/res/layout/activity_edit_profile_patient.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/Doctor Care App/app/src/main/res/layout/doctor_item.xml" value="0.2864471996579735" />
+        <entry key="..\:/AndroidStudio/Doctor Care App/app/src/main/res/layout/my_doctor_item.xml" value="0.2864471996579735" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/button_danger.xml" value="0.249" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/button_green.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/button_home.xml" value="0.1425" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/button_success.xml" value="0.2225" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/circle.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/gradient_background.xml" value="0.2225" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_account_24dp.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_add_location_black.xml" value="0.2225" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_add_location_black_24dp.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_anon_user_48dp.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_appointement.xml" value="0.249" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_appointment.xml" value="0.2225" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_arrow_back_black_24dp.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_assignment_ind_black_24dp.xml" value="0.1485" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_calendar.xml" value="0.249" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_call_black.xml" value="0.2225" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_call_black_24dp.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_camera_alt.xml" value="0.1815" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_camera_alt_black_24dp.xml" value="0.2455" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_date.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_doctor.xml" value="0.2225" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_edit_black_24dp.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_email_black.xml" value="0.2225" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_email_black_24dp.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_filter_list_black_24dp.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_local_hospital_black_24dp.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_medical_folder.xml" value="0.2225" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_patient_req.xml" value="0.1485" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_person.xml" value="0.249" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_phone_android_black_24dp.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_profile.xml" value="0.249" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_request.xml" value="0.249" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_search.xml" value="0.2225" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_search_green.xml" value="0.2225" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/ic_search_white.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/img.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/main_header_selector.xml" value="0.249" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/rectangle_round.xml" value="0.249" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/rounded_dialog.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/rounded_edittext.xml" value="0.249" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/rounded_message.xml" value="0.172" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/drawable/rounded_relativelayout.xml" value="0.246" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/font/amita.xml" value="0.37916666666666665" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_appointement.xml" value="0.1703125" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_confirmed_appointements.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_doctor_appointement.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_doctor_home.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_dossier_medical.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_edit_profile_doctor.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_edit_profile_patient.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_fiche.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_fiche_info.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_first_signin.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_form.xml" value="0.2864471996579735" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_home.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_main.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_medical_folder.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_my_calendar_doctor.xml" value="0.2864471996579735" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_my_doctors.xml" value="0.2864471996579735" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_my_patients.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_patient_appointments.xml" value="0.2864471996579735" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_patient_info.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_patient_request_page.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_profile_doctor.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_profile_info.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_profile_patient.xml" value="0.2864471996579735" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_search_pat.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/activity_test.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/confirmed_appointements_item.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/consultation_item.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/doctor_appointement_item.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/doctor_item.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/fragment_booking_step3.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/fragment_booking_step_one.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/fragment_booking_step_two.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/fragment_consultation.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/fragment_consultation_page.xml" value="0.2864471996579735" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/fragment_hospitalisation.xml" value="0.2864471996579735" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/hospitalisation_item.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/layout_time_slot.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/message_chat_item.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/my_doctor_item.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/my_patient_item.xml" value="0.2864471996579735" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/pat_request_item.xml" value="0.3351449275362319" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/layout/patient_appointments_item.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/menu/navigation_bar.xml" value="0.3489583333333333" />
+        <entry key="..\:/AndroidStudio/Health_Care_App-master/app/src/main/res/menu/top_app_bar.xml" value="0.3489583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
